@@ -106,4 +106,9 @@ Dependiendo de la operación realizada, el programa muestra los siguientes resul
 
 # Capturas de Pantalla
 
+<img width="468" height="246" alt="image" src="https://github.com/user-attachments/assets/35a087de-b907-4974-8a6a-95d6252c2ad8" /> <img width="722" height="227" alt="image" src="https://github.com/user-attachments/assets/00c93098-526b-4329-9eca-fa4982e2b837" /> <img width="594" height="229" alt="image" src="https://github.com/user-attachments/assets/1a31331c-fe2c-4770-9cd7-9d8dc30457db" /> <img width="713" height="221" alt="image" src="https://github.com/user-attachments/assets/4cca51c3-c4a8-41af-879b-cc6883ccf722" /> <img width="597" height="208" alt="image" src="https://github.com/user-attachments/assets/800b0350-bf9f-4148-8720-ff870ee4f5d8" />
+
+
+
+
 
